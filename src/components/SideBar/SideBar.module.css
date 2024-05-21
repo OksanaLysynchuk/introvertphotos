@@ -2,6 +2,32 @@
   float: left;
   width: 200px;
   text-align: left;
-  position: relative;
-  transform: translate3d(-295px, 230px, 10px);
+  font-size: 10px;
+  margin-right: 60px;
+  letter-spacing: 2px;
+  color: #ede5f3;
 }
+
+.description {
+  margin-bottom: 20px;
+  font-size: 12px;
+  border-bottom: 1px solid #dddddd;
+  padding-bottom: 20px;
+}
+h1 {
+  border-bottom: 1px solid #dddddd;
+  padding-bottom: 20px;
+}
+/* h1 {
+  float: left;
+  width: 100px;
+  height: auto;
+}
+
+p {
+  float: left;
+  width: 200px;
+  text-align: left;
+  position: relative;
+  transform: translate3d(-95px, 150px, 10px);
+} */

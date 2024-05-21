@@ -1,3 +1,19 @@
 .list {
   list-style-type: none;
+  padding-left: 0px;
+}
+
+.link {
+  display: block;
+  margin: 0;
+  padding: 0;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #ede5f3;
+}
+.link:hover {
+  color: #56bf4b;
+}
+.item {
+  margin-bottom: 10px;
 }

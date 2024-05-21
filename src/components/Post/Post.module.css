@@ -1,14 +1,37 @@
-li {
-  width: 300px;
-  height: 100%;
+.postCard {
+  width: 100%;
+}
+
+.postList {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  padding: 0;
+  list-style-type: none;
+}
+
+.listItem {
+  width: 22%; /* approximately 100% / 4 - some margin for spacing */
+  margin: 1%; /* slight margin to ensure spacing between items */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  cursor: pointer;
 }
 
 .img {
   width: 100%;
 }
 
-.postCard {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-evenly;
+.img:hover {
+  box-shadow: 0 5px 4px rgba(0, 0, 0, 0.4);
+}
+
+.caption {
+  width: 100%; /* Ensure the caption takes the full width of the list item */
+  text-align: left;
+  margin-top: 2px;
+  color: #ede5f3;
+  padding-left: 10px; /* Optional: add padding for better appearance */
 }

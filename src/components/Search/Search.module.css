@@ -1,0 +1,9 @@
+.input {
+  background: transparent;
+  border: none;
+  padding: 10px 0;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  font-family: "Source Sans Pro", sans-serif;
+  color: #ede5f3;
+}

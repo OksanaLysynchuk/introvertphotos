@@ -42,33 +42,17 @@
 }
 
 body {
-  background-image: url(/public/2024-02-13\ 09.23.34\ 3.jpg);
-  font-family: Arial, sans-serif;
+  /* background-image: url(/public/2024-02-13\ 09.23.34\ 3.jpg); */
+  background: url(../public/2024-02-13\ 09.23.34\ 3.jpg) no-repeat #ffffff fixed;
+  background-size: cover;
   background-color: #f5f5f5;
-  color: #333;
+  color: #ede5f3;
   display: flex;
   justify-content: center;
   padding: 20px;
-}
 
-.container {
-  display: flex;
-}
-
-.sidebar {
-  float: left;
-}
-
-h1 {
-  float: left;
-  width: 100px;
-  height: auto;
-}
-
-p {
-  float: left;
-  width: 200px;
-  text-align: left;
-  position: relative;
-  transform: translate3d(-95px, 150px, 10px);
+  font-size: 12px;
+  font-family: "Source Sans Pro", sans-serif;
+  line-height: 160%;
+  word-wrap: normal;
 }
