@@ -149,96 +149,464 @@
     "img": "/public/img/744237481471410176_0.jpg",
     "text": "July, 2023"
   },
-  { "id": "31", "img": "/public/img", "text": "" },
-  { "id": "32", "img": "/public/img", "text": "" },
-  { "id": "33", "img": "/public/img", "text": "" },
-  { "id": "34", "img": "/public/img", "text": "" },
-  { "id": "35", "img": "/public/img", "text": "" },
-  { "id": "36", "img": "/public/img", "text": "" },
-  { "id": "37", "img": "/public/img", "text": "" },
-  { "id": "38", "img": "/public/img", "text": "" },
-  { "id": "39", "img": "/public/img", "text": "" },
-  { "id": "40", "img": "/public/img", "text": "" },
-  { "id": "41", "img": "/public/img", "text": "" },
-  { "id": "42", "img": "/public/img", "text": "" },
-  { "id": "43", "img": "/public/img", "text": "" },
-  { "id": "44", "img": "/public/img", "text": "" },
-  { "id": "45", "img": "/public/img", "text": "" },
-  { "id": "46", "img": "/public/img", "text": "" },
-  { "id": "47", "img": "/public/img", "text": "" },
-  { "id": "48", "img": "/public/img", "text": "" },
-  { "id": "49", "img": "/public/img", "text": "" },
-  { "id": "50", "img": "/public/img", "text": "" },
-  { "id": "51", "img": "/public/img", "text": "" },
-  { "id": "52", "img": "/public/img", "text": "" },
-  { "id": "53", "img": "/public/img", "text": "" },
-  { "id": "54", "img": "/public/img", "text": "" },
-  { "id": "55", "img": "/public/img", "text": "" },
-  { "id": "56", "img": "/public/img", "text": "" },
-  { "id": "57", "img": "/public/img", "text": "" },
-  { "id": "58", "img": "/public/img", "text": "" },
-  { "id": "59", "img": "/public/img", "text": "" },
-  { "id": "60", "img": "/public/img", "text": "" },
-  { "id": "61", "img": "/public/img", "text": "" },
-  { "id": "62", "img": "/public/img", "text": "" },
-  { "id": "63", "img": "/public/img", "text": "" },
-  { "id": "64", "img": "/public/img", "text": "" },
-  { "id": "65", "img": "/public/img", "text": "" },
-  { "id": "66", "img": "/public/img", "text": "" },
-  { "id": "67", "img": "/public/img", "text": "" },
-  { "id": "68", "img": "/public/img", "text": "" },
-  { "id": "69", "img": "/public/img", "text": "" },
-  { "id": "70", "img": "/public/img", "text": "" },
-  { "id": "71", "img": "/public/img", "text": "" },
-  { "id": "72", "img": "/public/img", "text": "" },
-  { "id": "73", "img": "/public/img", "text": "" },
-  { "id": "74", "img": "/public/img", "text": "" },
-  { "id": "75", "img": "/public/img", "text": "" },
-  { "id": "76", "img": "/public/img", "text": "" },
-  { "id": "77", "img": "/public/img", "text": "" },
-  { "id": "78", "img": "/public/img", "text": "" },
-  { "id": "79", "img": "/public/img", "text": "" },
-  { "id": "80", "img": "/public/img", "text": "" },
-  { "id": "81", "img": "/public/img", "text": "" },
-  { "id": "82", "img": "/public/img", "text": "" },
-  { "id": "83", "img": "/public/img", "text": "" },
-  { "id": "84", "img": "/public/img", "text": "" },
-  { "id": "85", "img": "/public/img", "text": "" },
-  { "id": "86", "img": "/public/img", "text": "" },
-  { "id": "87", "img": "/public/img", "text": "" },
-  { "id": "88", "img": "/public/img", "text": "" },
-  { "id": "89", "img": "/public/img", "text": "" },
-  { "id": "90", "img": "/public/img", "text": "" },
-  { "id": "91", "img": "/public/img", "text": "" },
-  { "id": "92", "img": "/public/img", "text": "" },
-  { "id": "93", "img": "/public/img", "text": "" },
-  { "id": "94", "img": "/public/img", "text": "" },
-  { "id": "95", "img": "/public/img", "text": "" },
-  { "id": "96", "img": "/public/img", "text": "" },
-  { "id": "97", "img": "/public/img", "text": "" },
-  { "id": "98", "img": "/public/img", "text": "" },
-  { "id": "99", "img": "/public/img", "text": "" },
-  { "id": "100", "img": "/public/img", "text": "" },
-  { "id": "101", "img": "/public/img", "text": "" },
-  { "id": "102", "img": "/public/img", "text": "" },
-  { "id": "103", "img": "/public/img", "text": "" },
-  { "id": "104", "img": "/public/img", "text": "" },
-  { "id": "105", "img": "/public/img", "text": "" },
-  { "id": "106", "img": "/public/img", "text": "" },
-  { "id": "107", "img": "/public/img", "text": "" },
-  { "id": "108", "img": "/public/img", "text": "" },
-  { "id": "109", "img": "/public/img", "text": "" },
-  { "id": "110", "img": "/public/img", "text": "" },
-  { "id": "111", "img": "/public/img", "text": "" },
-  { "id": "112", "img": "/public/img", "text": "" },
-  { "id": "113", "img": "/public/img", "text": "" },
-  { "id": "114", "img": "/public/img", "text": "" },
-  { "id": "115", "img": "/public/img", "text": "" },
-  { "id": "116", "img": "/public/img", "text": "" },
-  { "id": "117", "img": "/public/img", "text": "" },
-  { "id": "118", "img": "/public/img", "text": "" },
-  { "id": "119", "img": "/public/img", "text": "" },
-  { "id": "120", "img": "/public/img", "text": "" },
-  { "id": "121", "img": "/public/img", "text": "" },
-  { "id": "122", "img": "/public/img", "text": "" }
+  {
+    "id": "31",
+    "img": "/public/img/744244416141721600_0.jpg",
+    "text": "July, 2023"
+  },
+  {
+    "id": "32",
+    "img": "/public/img/744273204479180800_0.jpg",
+    "text": "Liadovo, July, 2023"
+  },
+  {
+    "id": "33",
+    "img": "/public/img/744279987813777408_0.jpg",
+    "text": "Liadovo, July, 2023"
+  },
+  {
+    "id": "34",
+    "img": "/public/img/744286909839310848_0.jpg",
+    "text": "Liadovo, July, 2023"
+  },
+  {
+    "id": "35",
+    "img": "/public/img/744293727723470848_0.jpg",
+    "text": "Liadovo, July, 2023"
+  },
+  {
+    "id": "36",
+    "img": "/public/img/744300632833507328_0.jpg",
+    "text": "Medzhybizh, July, 2023"
+  },
+  {
+    "id": "37",
+    "img": "/public/img/744307582624301056_0.jpg",
+    "text": "Medzhybizh, July, 2023"
+  },
+  {
+    "id": "38",
+    "img": "/public/img/744314353262723072_0.jpg",
+    "text": "Medzhybizh, July, 2023"
+  },
+  {
+    "id": "39",
+    "img": "/public/img/744321294224474112_0.jpg",
+    "text": "Medzhybizh, July, 2023"
+  },
+  {
+    "id": "40",
+    "img": "/public/img/744328115794362368_0.jpg",
+    "text": "Medzhybizh, July, 2023"
+  },
+  {
+    "id": "41",
+    "img": "/public/img/744335018373087232_0.jpg",
+    "text": "Kamianets-Podilskyi, July, 2023"
+  },
+  {
+    "id": "42",
+    "img": "/public/img/744363795510657024_0.jpg",
+    "text": "Kamianets-Podilskyi, July, 2023"
+  },
+  {
+    "id": "43",
+    "img": "/public/img/744370587791687680_0.jpg",
+    "text": "Kamianets-Podilskyi, July, 2023"
+  },
+  {
+    "id": "44",
+    "img": "/public/img/744377535202312192_0.jpg",
+    "text": "Kamianets-Podilskyi, July, 2023"
+  },
+  {
+    "id": "45",
+    "img": "/public/img/744384306997313536_0.jpg",
+    "text": "Kamianets-Podilskyi, July, 2023"
+  },
+  {
+    "id": "46",
+    "img": "/public/img/744391239586168832_0.jpg",
+    "text": "Kamianets-Podilskyi, July, 2023"
+  },
+  {
+    "id": "47",
+    "img": "/public/img/744398080871464961_0.jpg",
+    "text": "Kamianets-Podilskyi, July, 2023"
+  },
+  {
+    "id": "48",
+    "img": "/public/img/744404961845215232_0.jpg",
+    "text": "Kamianets-Podilskyi, July, 2023"
+  },
+  {
+    "id": "49",
+    "img": "/public/img/744411878811369472_0.jpg",
+    "text": "Kamianets-Podilskyi, July, 2023"
+  },
+  {
+    "id": "50",
+    "img": "/public/img/744418666177822720_0.jpg",
+    "text": "Kamianets-Podilskyi, July, 2023"
+  },
+  {
+    "id": "51",
+    "img": "/public/img/744425598874730496_0.jpg",
+    "text": "Kamianets-Podilskyi, July, 2023"
+  },
+  {
+    "id": "52",
+    "img": "/public/img/744454388428472320_0.jpg",
+    "text": "Kamianets-Podilskyi, July, 2023"
+  },
+  {
+    "id": "53",
+    "img": "/public/img/744461190186565632_0.jpg",
+    "text": "Kamianets-Podilskyi, July, 2023"
+  },
+  {
+    "id": "54",
+    "img": "/public/img/744468117824077824_0.jpg",
+    "text": "Kamianets-Podilskyi, July, 2023"
+  },
+  {
+    "id": "55",
+    "img": "/public/img/744475027920093184_0.jpg",
+    "text": "Kamianets-Podilskyi, July, 2023"
+  },
+  {
+    "id": "56",
+    "img": "/public/img/744481861870485504_0.jpg",
+    "text": "Kamianets-Podilskyi, July, 2023"
+  },
+  {
+    "id": "57",
+    "img": "/public/img/744488795929559040_0.jpg",
+    "text": "Letychiv, July, 2023"
+  },
+  {
+    "id": "58",
+    "img": "/public/img/744495538926387200_0.jpg",
+    "text": "Letychiv, July, 2023"
+  },
+  {
+    "id": "59",
+    "img": "/public/img/744502498436497408_0.jpg",
+    "text": "Letychiv, July, 2023"
+  },
+  {
+    "id": "60",
+    "img": "/public/img/744509439618482177_0.jpg",
+    "text": "August, 2023"
+  },
+  {
+    "id": "61",
+    "img": "/public/img/744516173298892800_0.jpg",
+    "text": "August, 2023"
+  },
+  {
+    "id": "62",
+    "img": "/public/img/744544982236643328_0.jpg",
+    "text": "August, 2023"
+  },
+  {
+    "id": "63",
+    "img": "/public/img/744551784636366848_0.jpg",
+    "text": "August, 2023"
+  },
+  {
+    "id": "64",
+    "img": "/public/img/744558707139051520_0.jpg",
+    "text": "October, 2023"
+  },
+  {
+    "id": "65",
+    "img": "/public/img/744565511010074624_0.jpg",
+    "text": "October, 2023"
+  },
+  {
+    "id": "66",
+    "img": "/public/img/744572420446371840_0.jpg",
+    "text": "October, 2023"
+  },
+  {
+    "id": "67",
+    "img": "/public/img/744579389074849792_0.jpg",
+    "text": "October, 2023"
+  },
+  {
+    "id": "68",
+    "img": "/public/img/744586142858510336_0.jpg",
+    "text": "October, 2023"
+  },
+  {
+    "id": "69",
+    "img": "/public/img/744593058566455296_0.jpg",
+    "text": "October, 2023"
+  },
+  {
+    "id": "70",
+    "img": "/public/img/744599869972496384_0.jpg",
+    "text": "October, 2021"
+  },
+  {
+    "id": "71",
+    "img": "/public/img/744606796086476800_0.jpg",
+    "text": "October, 2021"
+  },
+  {
+    "id": "72",
+    "img": "/public/img/744631830368698368_0.jpg",
+    "text": "October, 2021"
+  },
+  {
+    "id": "73",
+    "img": "/public/img/744638600733491200_0.jpg",
+    "text": "October, 2021"
+  },
+  {
+    "id": "74",
+    "img": "/public/img/744645521653825536_0.jpg",
+    "text": "January 7, 2024"
+  },
+  {
+    "id": "75",
+    "img": "/public/img/746128657349820416_0.jpg",
+    "text": "March 27, 2024"
+  },
+  {
+    "id": "76",
+    "img": "/public/img/746128657349820416_1.jpg",
+    "text": "March 27, 2024"
+  },
+  {
+    "id": "77",
+    "img": "/public/img/746128680206663680_0.jpg",
+    "text": "March 27, 2024"
+  },
+  {
+    "id": "78",
+    "img": "/public/img/746128680206663680_1.jpg",
+    "text": "March 27, 2024"
+  },
+  {
+    "id": "79",
+    "img": "/public/img/746128703091769344_0.jpg",
+    "text": "March 27, 2024"
+  },
+  {
+    "id": "80",
+    "img": "/public/img/746128703091769344_1.jpg",
+    "text": "March 31, 2024"
+  },
+  {
+    "id": "81",
+    "img": "/public/img/746128718476591104_0.jpg",
+    "text": "March 31, 2024"
+  },
+  {
+    "id": "82",
+    "img": "/public/img/746128718476591104_1.jpg",
+    "text": "April 1, 2024"
+  },
+  {
+    "id": "83",
+    "img": "/public/img/746566080699498496_0.jpg",
+    "text": "April 1, 2024"
+  },
+  {
+    "id": "84",
+    "img": "/public/img/746566104952012800_0.jpg",
+    "text": "April 1, 2024"
+  },
+  {
+    "id": "85",
+    "img": "/public/img/746566329924993024_0.jpg",
+    "text": "April 1, 2024"
+  },
+  {
+    "id": "86",
+    "img": "/public/img/746566329924993024_1.jpg",
+    "text": "April 1, 2024"
+  },
+  {
+    "id": "87",
+    "img": "/public/img/746566354769002497_0.jpg",
+    "text": "April 1, 2024"
+  },
+  {
+    "id": "88",
+    "img": "/public/img/746566379419926530_0.jpg",
+    "text": "April 1, 2024"
+  },
+  {
+    "id": "89",
+    "img": "/public/img/746566389448540160_0.jpg",
+    "text": "April 1, 2024"
+  },
+  {
+    "id": "90",
+    "img": "/public/img/746566403348447232_0.jpg",
+    "text": "April 1, 2024"
+  },
+  {
+    "id": "91",
+    "img": "/public/img/746566415338864640_0.jpg",
+    "text": "April 1, 2024"
+  },
+  {
+    "id": "92",
+    "img": "/public/img/746566427549515776_0.jpg",
+    "text": "April 7, 2024"
+  },
+  {
+    "id": "93",
+    "img": "/public/img/747680057106006016_0.jpg",
+    "text": "April 7, 2024"
+  },
+  {
+    "id": "94",
+    "img": "/public/img/747680070510985216_0.jpg",
+    "text": "April 7, 2024"
+  },
+  {
+    "id": "95",
+    "img": "/public/img/747680082299158528_0.jpg",
+    "text": "April 7, 2024"
+  },
+  {
+    "id": "96",
+    "img": "/public/img/747680113364205568_0.jpg",
+    "text": "April 7, 2024"
+  },
+  {
+    "id": "97",
+    "img": "/public/img/747680124718186496_0.jpg",
+    "text": "April 7, 2024"
+  },
+  {
+    "id": "98",
+    "img": "/public/img/747680137895706624_0.jpg",
+    "text": "April 7, 2024"
+  },
+  {
+    "id": "99",
+    "img": "/public/img/747680199471185920_0.jpg",
+    "text": "April 7, 2024"
+  },
+  {
+    "id": "100",
+    "img": "/public/img/747680223324225536_0.jpg",
+    "text": "April 7, 2024"
+  },
+  {
+    "id": "101",
+    "img": "/public/img/747680232493006848_0.jpg",
+    "text": "April 7, 2024"
+  },
+  {
+    "id": "102",
+    "img": "/public/img/747680256502153216_0.jpg",
+    "text": "April 7, 2024"
+  },
+  {
+    "id": "103",
+    "img": "/public/img/747680276513161216_0.jpg",
+    "text": "April 7, 2024"
+  },
+  {
+    "id": "104",
+    "img": "/public/img/747680294505742336_0.jpg",
+    "text": "April 10, 2024"
+  },
+  {
+    "id": "105",
+    "img": "/public/img/747680310276325376_0.jpg",
+    "text": "April 19, 2024"
+  },
+  {
+    "id": "106",
+    "img": "/public/img/748200899779887104_0.jpg",
+    "text": "April 19, 2024"
+  },
+  {
+    "id": "107",
+    "img": "/public/img/748200915757137920_0.jpg",
+    "text": "April 19, 2024"
+  },
+  {
+    "id": "108",
+    "img": "/public/img/748200925767860224_0.jpg",
+    "text": "May 5, 2024"
+  },
+  {
+    "id": "109",
+    "img": "/public/img/750357806637563904_0.jpg",
+    "text": "May 5, 2024"
+  },
+  {
+    "id": "110",
+    "img": "/public/img/750357814968483840_0.jpg",
+    "text": "May 5, 2024"
+  },
+  {
+    "id": "111",
+    "img": "/public/img/750357832587706368_0.jpg",
+    "text": "May 5, 2024"
+  },
+  {
+    "id": "112",
+    "img": "/public/img/750357845818638336_0.jpg",
+    "text": "May 5, 2024"
+  },
+  {
+    "id": "113",
+    "img": "/public/img/750357856918913024_0.jpg",
+    "text": "May 5, 2024"
+  },
+  {
+    "id": "114",
+    "img": "/public/img/750357866832183296_0.jpg",
+    "text": "May 5, 2024"
+  },
+  {
+    "id": "115",
+    "img": "/public/img/750357888876380160_0.jpg",
+    "text": "May 13, 2024"
+  },
+  {
+    "id": "116",
+    "img": "/public/img/750372726352592896_0.jpg",
+    "text": "May 13, 2024"
+  },
+  {
+    "id": "117",
+    "img": "/public/img/750372740622614528_0.jpg",
+    "text": "May 13, 2024"
+  },
+  {
+    "id": "118",
+    "img": "/public/img/750372762102710272_0.jpg",
+    "text": "May 13, 2024"
+  },
+  {
+    "id": "119",
+    "img": "/public/img/750372772684972032_0.jpg",
+    "text": "May 13, 2024"
+  },
+  {
+    "id": "120",
+    "img": "/public/img/750372808259977216_0.jpg",
+    "text": "May 13, 2024"
+  },
+  {
+    "id": "121",
+    "img": "/public/img/750372818658770944_0.jpg",
+    "text": "May 13, 2024"
+  },
+  {
+    "id": "122",
+    "img": "/public/img/750372831439847424_0.jpg",
+    "text": "May 13, 2024"
+  }
 ]
