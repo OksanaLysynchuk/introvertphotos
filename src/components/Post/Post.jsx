@@ -1,16 +1,15 @@
 import posts from "/src/media.json";
+import CSS from "./Post.module.css";
 
 export default function Post() {
   return (
-    <div>
-      <ul>
-        {posts.map((post) => (
-          <li key={post.id} className="post">
-            <img src={post.img} alt={`Post ${post.id}`} />
-            <p>{post.text}</p>
-          </li>
-        ))}
-      </ul>
+    <div className={CSS.postCard}>
+      {posts.map((post) => (
+        <li key={post.id} className={CSS.post}>
+          <img src={post.img} alt={`Post ${post.id}`} className={CSS.img} />
+          <p className={CSS.text}>{post.text}</p>
+        </li>
+      ))}
     </div>
   );
 }

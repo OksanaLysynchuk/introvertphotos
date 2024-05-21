@@ -1,0 +1,7 @@
+.sidebar {
+  float: left;
+  width: 200px;
+  text-align: left;
+  position: relative;
+  transform: translate3d(-295px, 230px, 10px);
+}

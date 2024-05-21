@@ -1,0 +1,14 @@
+li {
+  width: 300px;
+  height: 100%;
+}
+
+.img {
+  width: 100%;
+}
+
+.postCard {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
